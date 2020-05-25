@@ -1,0 +1,7 @@
+TTGATCTACTACTGATGG
+0,2,4 b 0,3,5 e 12,11,0 m 1,6,7 Kk 2,9,13 Bl
+Bl Kk e
+e
+e b Kk
+m
+end

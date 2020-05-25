@@ -1,0 +1,7 @@
+CGATAGCTTACTAGCAA
+0,2,4 Aa 0,3,5 Ab 12,11,0 Ac 1,6,7 Ad 2,9,3 Ae
+Aa Ab Ac
+Ab Aa Ab Aa
+Ac Ac Ab Aa
+Ae Ae Ad Ac
+end

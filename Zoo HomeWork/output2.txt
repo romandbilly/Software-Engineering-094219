@@ -1,0 +1,10 @@
+Lion: Name: Simba, Gender: male, Is adult: True, Mother name: , Father name: , Number of children: 1
+Lion: Name: Nela, Gender: female, Is adult: True, Mother name: , Father name: , Number of children: 1
+Duck: Name: Donald, Gender: male, Is adult: True, Mother name: , Father name: , Number of children: 0
+Lion: Name: Kiara, Gender: female, Is adult: False, Mother name: Nela, Father name: Simba, Number of children: 0
+***QUACK***
+Lion: Name: Simba, Gender: male, Is adult: True, Mother name: , Father name: , Number of children: 1
+Lion: Name: Nela, Gender: female, Is adult: True, Mother name: , Father name: , Number of children: 1
+Lion: Name: Kiara, Gender: female, Is adult: False, Mother name: Nela, Father name: Simba, Number of children: 0
+number of animals in the community is: 2
+***RWAR***

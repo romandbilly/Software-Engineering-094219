@@ -1,0 +1,18 @@
+Dambo Lena Elephant
+growUp
+printCommunity
+growUp
+growUp
+animalReproduce Dambo Lena Miko male
+growUp
+printCommunitySize
+growUp
+make_sound Dambo
+animalReproduce Dambo Lena Babar male
+printCommunity
+euthanize Dambo
+euthanize Lena
+add_animal Simba Lion male
+printCommunitySize
+make_sound Simba
+quit

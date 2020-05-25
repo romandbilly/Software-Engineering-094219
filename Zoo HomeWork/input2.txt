@@ -1,0 +1,19 @@
+Simba Nela Lion
+growUp
+growUp
+add_animal Donald Duck male
+growUp
+animalReproduce Nela Simba Kiara female
+printCommunity
+make_sound Donald
+growUp
+euthanize Donald
+growUp
+printCommunity
+euthanize Nela
+growUp
+euthanize Simba
+add_animal Ellie Mammoth male
+printCommunitySize
+make_sound Kiara
+quit

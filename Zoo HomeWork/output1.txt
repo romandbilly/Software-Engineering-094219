@@ -1,0 +1,9 @@
+Elephant: Name: Dambo, Gender: male, Is adult: False, Mother name: , Father name: , Number of children: 0
+Elephant: Name: Lena, Gender: female, Is adult: False, Mother name: , Father name: , Number of children: 0
+number of animals in the community is: 2
+***TRUMPET***
+Elephant: Name: Dambo, Gender: male, Is adult: True, Mother name: , Father name: , Number of children: 1
+Elephant: Name: Lena, Gender: female, Is adult: True, Mother name: , Father name: , Number of children: 1
+Elephant: Name: Babar, Gender: male, Is adult: False, Mother name: Lena, Father name: Dambo, Number of children: 0
+number of animals in the community is: 1
+***RWAR***
